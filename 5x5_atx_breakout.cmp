@@ -1,0 +1,297 @@
+Cmp-Mod V01 Created by PcbNew date = Wed 06 Aug 2014 09:54:43 CEST
+
+BeginCmp
+TimeStamp = /53DE74CD;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE7515;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE7524;
+Reference = C3;
+ValeurCmp = 1u;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE74EB;
+Reference = D1;
+ValeurCmp = 1N4002;
+IdModule  = dp_devices-DO-214AC;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE74FA;
+Reference = D2;
+ValeurCmp = 1N4002;
+IdModule  = dp_devices-DO-214AC;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE65E0;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6B12;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6918;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A6E;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A97;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AC0;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AE9;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6C15;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6BCA;
+Reference = F2;
+ValeurCmp = FUSE;
+IdModule  = SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6BD9;
+Reference = F3;
+ValeurCmp = FUSE;
+IdModule  = SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6BE8;
+Reference = F4;
+ValeurCmp = FUSE;
+IdModule  = SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6BF7;
+Reference = F5;
+ValeurCmp = FUSE;
+IdModule  = SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6C06;
+Reference = F6;
+ValeurCmp = FUSE;
+IdModule  = SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DDDD28;
+Reference = P1;
+ValeurCmp = CONN_10X2;
+IdModule  = CONN_ATX_10X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AF9;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = PAD_ROUND_4.1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6724;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = PAD_ROUND_4.1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A55;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = PAD_ROUND_4.1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A7E;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = PAD_ROUND_4.1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AA7;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = PAD_ROUND_4.1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AD0;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = PAD_ROUND_4.1MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE65EF;
+Reference = R1;
+ValeurCmp = 2K2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE74BE;
+Reference = R2;
+ValeurCmp = 240;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6B0C;
+Reference = R3;
+ValeurCmp = 2K2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE68FF;
+Reference = R4;
+ValeurCmp = 2K2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A68;
+Reference = R5;
+ValeurCmp = 2K2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A91;
+Reference = R6;
+ValeurCmp = 2K2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6ABA;
+Reference = R7;
+ValeurCmp = 2K2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AE3;
+Reference = R8;
+ValeurCmp = 2K2;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE74DC;
+Reference = RV1;
+ValeurCmp = 5K;
+IdModule  = BOURNS_3266Y;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE650E;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_PUSH_LATCH_TL-2201;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AFF;
+Reference = SW2;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_SPDT_VERTICAL_PANEL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6788;
+Reference = SW3;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_SPDT_VERTICAL_PANEL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A5B;
+Reference = SW4;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_SPDT_VERTICAL_PANEL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6A84;
+Reference = SW5;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_SPDT_VERTICAL_PANEL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AAD;
+Reference = SW6;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_SPDT_VERTICAL_PANEL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DE6AD6;
+Reference = SW7;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_SPDT_VERTICAL_PANEL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DEB43F;
+Reference = U1;
+ValeurCmp = LM317T;
+IdModule  = TO220_123_VERT;
+EndCmp
+
+EndListe
